@@ -2,28 +2,45 @@
 
 
    <photography>
-<apptitle>Good Morning Frames</apptitle>
+<apptitle>Happy Christmas Frames</apptitle>
 <applink>market://details?id=com.dreamystudios.goodmorningphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/Jigloo/jiglooapps/master/icons/ambedkarflad.png</appicon>
+<appicon>https://raw.githubusercontent.com/Jigloo/jiglooapps/master/icons/christmaspfland.png</appicon>
 </photography>
 
    <photography>
-<apptitle>Waterfall Photo Frames</apptitle>
+<apptitle>Christmas Wishes,Greetings</apptitle>
 <applink>market://details?id=com.dreamystudios.waterfallphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/Jigloo/jiglooapps/master/icons/ambedkarflad.png</appicon>
+<appicon>https://raw.githubusercontent.com/Jigloo/jiglooapps/master/icons/christmaswishland.png</appicon>
 </photography>
    
     <photography>
-<apptitle>Good Night Photo Frames</apptitle>
+<apptitle>Happy Diwali Frames</apptitle>
 <applink>market://details?id=com.dreamystudios.goodnightphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/Jigloo/jiglooapps/master/icons/ambedkarflad.png</appicon>
+<appicon>https://raw.githubusercontent.com/Jigloo/jiglooapps/master/icons/diwalipfland.png</appicon>
 </photography>
 
    <photography>
-<apptitle>Buddha Photo Frames</apptitle>
+<apptitle>Jesus Live Wallpaper</apptitle>
 <applink>market://details?id=com.dreamystudios.buddhaphotoframes</applink>
-<appicon>https://raw.githubusercontent.com/Jigloo/jiglooapps/master/icons/ambedkarflad.png</appicon>
+<appicon>https://raw.githubusercontent.com/Jigloo/jiglooapps/master/icons/jesuslive.png</appicon>
 </photography>
    
+    <photography>
+<apptitle>New Year Frames</apptitle>
+<applink>market://details?id=com.dreamystudios.waterfallphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/Jigloo/jiglooapps/master/icons/newyearpfland.png</appicon>
+</photography>
+   
+    <photography>
+<apptitle>New Year Wishes,Greetings</apptitle>
+<applink>market://details?id=com.dreamystudios.goodnightphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/Jigloo/jiglooapps/master/icons/newyearwishland.png</appicon>
+</photography>
+
+   <photography>
+<apptitle>Saibaba Clock</apptitle>
+<applink>market://details?id=com.dreamystudios.buddhaphotoframes</applink>
+<appicon>https://raw.githubusercontent.com/Jigloo/jiglooapps/master/icons/saibabaclock.png</appicon>
+</photography>
 
 </photographyapps>
